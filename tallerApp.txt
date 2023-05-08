@@ -1,0 +1,13 @@
+Metodologias Tradicionales
+Cascada
+Incremental
+Prototipo 
+Espiral
+
+Metodologias Agiles
+Scrum
+Lean
+Extreme Programming xp
+Kanban
+Agile Inception
+Desing sprint
